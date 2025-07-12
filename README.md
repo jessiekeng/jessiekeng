@@ -104,4 +104,4 @@ Feel free to reach out to me on these platforms!
 
 ---
 
-[![Halim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aleng1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jessie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jessiekeng&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
