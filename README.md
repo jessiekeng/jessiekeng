@@ -55,8 +55,8 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jessiekeng&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessiekeng&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jessiekeng&show_icons=true&theme=dark&cache_id=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessiekeng&layout=compact&theme=dark&cache_id=1" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessiekeng&theme=dark" alt="GitHub Streak" />
 </p>
 
