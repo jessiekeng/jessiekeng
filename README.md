@@ -73,10 +73,10 @@
 Feel free to reach out to me on these platforms!
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/abdul-halim-b33ab7229/" target="_blank" rel="noreferrer" style="display: inline-block; vertical-align: middle;">
+    <a href="https://www.linkedin.com/in/jessie-keng" target="_blank" rel="noreferrer" style="display: inline-block; vertical-align: middle;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-right: 10px;"/>
     </a>
-    <a href="mailto:abdhalim.work@gmail.com" target="_blank" style="display: inline-block; vertical-align: middle;">
+    <a href="mailto:zixingkeng@gmail.com" target="_blank" style="display: inline-block; vertical-align: middle;">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email"/>
     </a>
 </p>
