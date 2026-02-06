@@ -17,7 +17,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -60,6 +60,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessiekeng&theme=dark" alt="GitHub Streak" />
 </p>
 
+---
+
+### 📈 Activity:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jessiekeng&theme=react-dark" width="100%" />
+</p>
 ---
 
 ### 📫 Connect with Me:
